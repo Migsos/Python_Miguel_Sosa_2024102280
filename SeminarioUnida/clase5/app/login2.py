@@ -9,7 +9,7 @@ DB_CONFIG = {
     'host': 'localhost',   
     'user': 'Unida',    
     'password': '1234', 
-    'database': 'localhost',
+    'database': 'unida',
     'port':'3306'  
 }
 
